@@ -1,0 +1,10 @@
+Adel, 9, 20030313, Sales, 545-806-2187
+Patricio, 20, 20030517, Engineering, 322-3430-108
+Kellina, 4693, 20030510, Engineering, 493-7066-890
+Si, 07, 20030829, Support, 738-475-8994
+Damara, 73832, 20030816, BusinessDevelopment, 604-9242-931
+Theressa, 76, 20030111, HumanResources, 346-9833-531
+Vernen, 164, 20030411, Accounting, 954-5806-465
+Mitchell, 8, 20030215, Sales, 740-4546-594
+Tadd, 32800, 20031024, Legal, 541-7397-633
+Skip, 8, 20030205, Accounting, 221-1282-811
